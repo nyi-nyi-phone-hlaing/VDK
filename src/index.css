@@ -1,3 +1,6 @@
+@import "@fontsource/poppins";
+@import "@fontsource/montserrat";
+@import "@fontsource/roboto";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
